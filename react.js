@@ -4,7 +4,6 @@ module.exports = {
   },
   extends: [
     "standard-jsx",
-    "standard-react",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
     "plugin:storybook/recommended",
