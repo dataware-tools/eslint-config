@@ -2,7 +2,7 @@
   "name": "@dataware-tools/eslint-config",
   "author": "dataware-tools",
   "license": "Apache-2.0",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/dataware-tools/eslint-config.git"
@@ -12,28 +12,26 @@
     "npm": "7 - 8"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.33.0",
-    "@typescript-eslint/parser": "^4.33.0",
-    "eslint": "^7.32.0",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint": "^8.19.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-config-standard-jsx": "^10.0.0",
-    "eslint-config-standard-react": "^11.0.1",
-    "eslint-config-standard-with-typescript": "^21.0.1",
-    "eslint-import-resolver-typescript": "^2.7.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-config-standard-jsx": "^11.0.0",
+    "eslint-config-standard-with-typescript": "^22.0.0",
+    "eslint-import-resolver-typescript": "^3.2.4",
     "eslint-plugin-compat": "^4.0.2",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jest": "^25.7.0",
-    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-jest": "^26.5.3",
+    "eslint-plugin-jsx-a11y": "^6.6.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.2.0",
-    "eslint-plugin-react": "^7.30.0",
-    "eslint-plugin-react-hooks": "^4.5.0",
-    "eslint-plugin-standard": "^5.0.0",
-    "eslint-plugin-storybook": "^0.5.12",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-storybook": "^0.5.13",
     "eslint-plugin-testing-library": "^5.5.1",
-    "eslint-plugin-unused-imports": "^1.1.5"
+    "eslint-plugin-unused-imports": "^2.0.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
